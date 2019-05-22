@@ -28,7 +28,7 @@ sub	engine { return $_[0]->{'engine'} }
 sub	gorun { print STDERR __PACKAGE__."::gorun() : you must override me.\n"; return undef }
 
 # pod starts here
-
+=encoding utf8
 =head1 NAME
 
 Geo::OSM::Overpass::Plugin - parent class for all plugins for L<Geo::OSM::Overpass>

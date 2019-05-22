@@ -1,5 +1,3 @@
-NAME
-
     Geo::OSM::Overpass::Plugin - parent class for all plugins for
     Geo::OSM::Overpass
 
